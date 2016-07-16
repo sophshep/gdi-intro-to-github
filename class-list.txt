@@ -1,7 +1,3 @@
 Sophie Shepherd
-<<<<<<< HEAD
-Sammalammadingdong Fagan
-=======
 Kayla Peace
-Sam Fagan
->>>>>>> master
+Sammalammadingdong Fagan
