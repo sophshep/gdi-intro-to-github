@@ -1,4 +1,9 @@
 Sophie Shepherd
+<<<<<<< HEAD
 Sam Fagan
 Aubrey
 Kayla Peace
+=======
+Kayla Peace
+Sammalammadingdong Fagan
+>>>>>>> origin/master
